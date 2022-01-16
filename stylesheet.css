@@ -95,7 +95,7 @@ li:hover::after{
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: url('file:///C:/Users/Fizon001/Desktop/Club%20stuff/Club%20Website/Club%20website/Images/Home%20background.png');
+  background: url('Club Website/Club website/Images/Home background.png');
   background-size: cover;
   background-attachment: fixed;
   display: flex;
@@ -619,7 +619,7 @@ li:hover::after{
 }
 
 .left{
-	background: url("file:///C:/Users/Fizon001/Desktop/Club%20stuff/Club%20Website/Club%20website/Images/contact%20us.jpeg") no-repeat center;
+	background: url("Club Website/Club website/Images/contact us.jpeg") no-repeat center;
 	background-size: cover;
 	height: 100%;
   cursor: pointer;
