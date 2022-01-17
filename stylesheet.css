@@ -91,6 +91,64 @@ li:hover::after{
   font-weight: bold;
   color: #7494BC !important;
 }
+.navbar-toggler {
+  margin-left: 550px;
+}
+@media screen and (max-width: 929px) {
+  .navbar-toggler {
+    margin-left: 500px;
+  }
+}
+@media screen and (max-width: 880px) {
+  .navbar-toggler {
+    margin-left: 430px;
+  }
+}
+@media screen and (max-width: 809px) {
+  .navbar-toggler {
+    margin-left: 400px;
+  }
+}
+@media screen and (max-width: 778px) {
+  .navbar-toggler {
+    margin-left: 350px;
+  }
+}
+@media screen and (max-width: 729px) {
+  .navbar-toggler {
+    margin-left: 300px;
+  }
+}
+@media screen and (max-width: 678px) {
+  .navbar-toggler {
+    margin-left: 250px;
+  }
+}
+@media screen and (max-width: 628px) {
+  .navbar-toggler {
+    margin-left: 200px;
+  }
+}
+@media screen and (max-width: 578px) {
+  .navbar-toggler {
+    margin-left: 150px;
+  }
+}
+@media screen and (max-width: 528px) {
+  .navbar-toggler {
+    margin-left: 100px;
+  }
+}
+@media screen and (max-width: 478px) {
+  .navbar-toggler {
+    margin-left: 70px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navbar-toggler {
+    margin-left: 50px;
+  }
+}
 .banner {
   position: relative;
   width: 100%;
